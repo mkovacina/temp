@@ -8,7 +8,6 @@ public class App
         var rectangle = new Rectangle(0,1,2,3);
 
         ArrayList shapes = new ArrayList(10);
-
         shapes.add(circle);
         shapes.add(rectangle);
 
